@@ -122,13 +122,6 @@ Best ANN Performance:
 - Retention recommendation system
 - Gamification strategies for customer engagement
 
-## Team Members
-
-- Thota Shravya
-- Vaishali Vadde
-- Syed Danish
-- Thadem Pravalika
-
 ---
 
 ⭐ If you found this project useful, give it a star.
